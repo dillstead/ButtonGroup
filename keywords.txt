@@ -1,0 +1,20 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ButtonGroup    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+registerPin    KEYWORD2
+unregisterPin  KEYWORD2
+readAllPins    KEYWORD2
+readPin        KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MAX_PINS       LITERAL1
